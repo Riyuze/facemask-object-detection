@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>d147_1580791063934.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>327</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>yes_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>141</xmin>
+            <ymin>21</ymin>
+            <xmax>228</xmax>
+            <ymax>136</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>yes_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>389</xmin>
+            <ymin>82</ymin>
+            <xmax>457</xmax>
+            <ymax>165</ymax>
+        </bndbox>
+    </object>
+</annotation>

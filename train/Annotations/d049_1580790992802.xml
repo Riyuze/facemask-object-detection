@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>d049_1580790992802.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>200</width>
+        <height>200</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>yes_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>24</xmin>
+            <ymin>1</ymin>
+            <xmax>104</xmax>
+            <ymax>78</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>yes_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>58</xmin>
+            <ymin>37</ymin>
+            <xmax>181</xmax>
+            <ymax>182</ymax>
+        </bndbox>
+    </object>
+</annotation>

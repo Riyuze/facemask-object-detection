@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>b013_1580797660284.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>527</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>no_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>233</xmin>
+            <ymin>19</ymin>
+            <xmax>289</xmax>
+            <ymax>93</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>no_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>376</xmin>
+            <ymin>21</ymin>
+            <xmax>443</xmax>
+            <ymax>91</ymax>
+        </bndbox>
+    </object>
+</annotation>
