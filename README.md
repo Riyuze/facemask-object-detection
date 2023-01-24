@@ -25,3 +25,6 @@ pip install -r requirements.txt
 ```
 
 ## Preview 
+![Test Image](https://github.com/Riyuze/facemask-object-detection/blob/main/Test%20Image.png)
+
+![Mask Detection](https://github.com/Riyuze/facemask-object-detection/blob/main/Mask%20Detection.png)
